@@ -1,2 +1,3 @@
 # Transfer-Learning-with-TF-Hub
-In this project, you will use pre-trained models from TensorFlow Hub with tf.keras for text classification
+
+This is a famous dataset, with questions from the website Quora, and labels indicating if a question can be considered sincere or insincere, inflamatory, or toxic. Quora is a platform where people learn from each other. A key challenge is to weed out insincere questions -- those founded upon false premises, or that intend to make a statement rather than look for helpful answers. Kaggle launched this competition with the words: Here's your chance to combat online trolls at scale. The ability to add a red flag to potentially dangerous sentences has a huge impact in cleaning up the air in the modern internet atmosphere.
